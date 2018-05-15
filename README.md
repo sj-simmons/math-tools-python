@@ -1,6 +1,6 @@
-# math-tools
+# math-tools-python
 
-Assorted math-related utilities.
+Assorted math-related utilities in Python.
 
 ---
 
